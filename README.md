@@ -2,7 +2,7 @@
 View live demo : 
 
 # preview
-<img src="./images/preview.PNG" alt="preview 1">
+<img src="images\preview.PNG" alt="preview 1">
 
 # preview
 <img src="./images/preview_2.PNG" alt="preview 2">
