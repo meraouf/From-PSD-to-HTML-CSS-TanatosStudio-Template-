@@ -1,5 +1,5 @@
 # From-PSD-to-HTML-CSS-TanatosStudio-Template-
-View live demo : 
+View live demo : https://meraouf.github.io/From-PSD-to-HTML-CSS-TanatosStudio-Template-/
 
 # preview
 <img src="images\preview.png" alt="preview 1">
